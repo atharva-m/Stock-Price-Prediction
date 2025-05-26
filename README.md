@@ -49,11 +49,11 @@ This project implements multivariate time series forecasting using Gated Recurre
 
 | Stock  | RMSE (USD) |
 |--------|------------|
-| YHOO   | ~0.82      |
-| GOOG   | ~13.26     |
-| MSFT   | ~1.04      |
-| AAPL   | ~3.94      |
-| ADBE   | ~2.00      |
+| YHOO   | 0.78       |
+| GOOG   | 12.62      |
+| MSFT   | 1.10       |
+| AAPL   | 3.25       |
+| ADBE   | 2.28       |
 
 ---
 
