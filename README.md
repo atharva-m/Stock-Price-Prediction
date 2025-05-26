@@ -95,7 +95,7 @@ print(f"Next-day predicted close: ${predicted_close[0][0]:.2f}")
 Each stock’s prediction is plotted against actual prices:
 
 <p align="center">
-  <img src="assets/yhoo_plot.png" width="600">
+  <img src="plots/Yahoo.png" width="600">
   <br><em>Example: Actual vs Predicted Close (YHOO)</em>
 </p>
 
