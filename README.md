@@ -101,14 +101,6 @@ Each stock’s prediction is plotted against actual prices:
 
 ---
 
-## 💡 Future Enhancements
-
-- Incorporate external signals (e.g., news sentiment, macro data)
-- Compare with classical models (ARIMA, GARCH)
-- Hyperparameter tuning via Optuna
-
----
-
 ## 📚 Acknowledgments
 
 This project was built using:
