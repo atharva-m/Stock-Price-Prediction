@@ -1,7 +1,6 @@
 # 📈 Stock Price Prediction using GRU-based Neural Networks
 
 ![Python](https://img.shields.io/badge/Python-3.13-blue.svg)
-![License: CC0-1.0](https://img.shields.io/badge/License-CC0%201.0-lightgrey.svg)
 ![Status](https://img.shields.io/badge/status-stable-brightgreen)
 
 This project implements multivariate time series forecasting using Gated Recurrent Units (GRUs) to predict the **next-day closing prices** of major stocks including Yahoo (YHOO), Microsoft (MSFT), Apple (AAPL), Google (GOOG), and Adobe (ADBE). The model leverages historical OHLCV data with a rolling window strategy and evaluates performance using RMSE in USD.
