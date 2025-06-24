@@ -112,6 +112,7 @@ This project was built using:
 - [NumPy & pandas](https://pandas.pydata.org/)
 - [Yahoo Finance OHLCV data]
 
+---
 
 ### Contact
 Atharva Mokashi · atharvamokashi01@gmail.com · [LinkedIn](https://www.linkedin.com/in/atharva-m)
